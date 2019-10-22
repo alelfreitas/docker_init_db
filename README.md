@@ -1,4 +1,4 @@
-# Docker compose para subir base de dados e iniciar um scrpit de criação de bases.
+# Docker compose para subir base de dados e iniciar um script de criação de bases.
 
 ## entry
 
